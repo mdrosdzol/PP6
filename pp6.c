@@ -2,7 +2,12 @@
 
 int main() {
 
-	printf("Hello World");
+	printf("=====  =   =   ====    =");
+	printf("  =    =   =  =       = = ");
+	printf("  =    =====  =  ==  =   =");
+	printf("  =    =   =  =   =  =====");
+	printf("  =    =   =   ===   =   ="
+	
 	return 0;
 }
 
